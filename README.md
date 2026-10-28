@@ -1,61 +1,41 @@
 
-# 📊 Data Challenge 5.0 — Economic Growth Analysis
+# 📊 Economic Growth Analysis in Malaysia (2010–2024)
 
-### The Role of Higher Education in Reducing Youth Unemployment & Driving GDP Growth in Malaysia (2010–2024)
+### Higher Education, Youth Unemployment & GDP Growth
 
-**Presented by Brainy Bytes** | UPNM | Data Challenge 5.0
+**Data Challenge 5.0 | Personal Portfolio**
 
-An academic data analysis project exploring the relationship between higher education graduates, youth unemployment, graduate employability, and economic growth in Malaysia from 2010 to 2024.
+## 📌 Project Overview
 
----
+This project explores the relationship between higher education graduates, youth unemployment, graduate employability, and GDP growth in Malaysia from 2010 to 2024.
 
-## 🎯 Project Objectives
+The project demonstrates my exposure to statistical analysis, data visualisation, and dashboard development to communicate research findings.
 
-- Examine the relationship between higher education graduates and youth unemployment.
-- Analyse the relationship between graduate numbers and graduate employability.
-- Investigate the relationship between youth unemployment and GDP growth.
-- Explore how graduate employability relates to economic growth.
-- Examine the mediating role of labour market outcomes.
+## 🎯 Objectives
 
-## 📈 Key Areas of Analysis
+- Analyse trends in higher education graduates.
+- Examine youth unemployment and graduate employability.
+- Explore relationships between labour market outcomes and GDP growth.
+- Present research findings through visualisations and a dashboard.
 
-- Graduate output: Bachelor's degree and Diploma graduates.
-- Youth unemployment trends.
-- Graduate employability rates.
-- Malaysia's annual GDP growth.
-- Relationships between education, labour market outcomes, and economic growth.
+## 🛠️ Tools & Skills
 
-## 🛠️ Tools & Methods
+- Power BI — Dashboard and data visualisation
+- RStudio — Statistical analysis and modelling
 
-- **RStudio:** Statistical analysis and modelling, as documented in the project presentation.
-- **Power BI:** Dashboard exploration and data visualisation.
-- **Data Visualisation:** Charts, trend analysis, and dashboard reporting.
+## 📂 Project Deliverables
 
-## 🖼️ Project Poster
+- [View Project Poster](https://drive.google.com/file/d/17QlSa89gXZ_3RuP9sBN-coECjJ0LG3Pw/view?usp=sharing)
+- [View Presentation Slides](https://drive.google.com/file/d/1QSRZuIIaYhFJ5Q173ml-HS0R5CkxQNLy/view?usp=sharing)
+- [View Power BI Dashboard File](https://drive.google.com/file/d/1p9YnnMUyfimiB-9yqx10i2eLq4TvSt7e/view?usp=sharing)
 
-[View Project Poster](https://drive.google.com/file/d/17QlSa89gXZ_3RuP9sBN-coECjJ0LG3Pw/view?usp=sharing)
+## 💡 Skills Demonstrated
 
-## 📑 Project Presentation
-
-[View Presentation Slides (PDF)](https://drive.google.com/file/d/1QSRZuIIaYhFJ5Q173ml-HS0R5CkxQNLy/view?usp=sharing)
-
-## 📊 Interactive Dashboard
-
-[View or Download Dashboard File (.pbix)](https://drive.google.com/file/d/1p9YnnMUyfimiB-9yqx10i2eLq4TvSt7e/view?usp=sharing)
-
-The Power BI file can be opened using Microsoft Power BI Desktop.
-
-## 👥 Team
-
-**Brainy Bytes**
-
-- Yusra Haziqah binti Md Yunus
-- Nur Adilah binti Hassim
-- Nur Atikah binti Daman'dra
-- Nur Safwatul Izyan binti Khairul Anuar
-- Fatima Az-zahra binti Mohamad Kamarulzaman
-
-**Mentor:** DR. Sharifah Aishah binti Syed Ali
+- Exploratory data analysis
+- Data visualisation
+- Statistical analysis
+- Dashboard reporting
+- Research communication
 
 ## 📚 Data Sources
 
@@ -64,10 +44,6 @@ The Power BI file can be opened using Microsoft Power BI Desktop.
 - World Bank
 - Graduate Tracer Study Reports
 
-## 🏆 Project Context
-
-Data Challenge 5.0 — Academic Data Analysis Project
-
 ---
 
-*Exploring how education and labour market outcomes relate to Malaysia's economic growth.*
+*Part of my data analytics portfolio.*
