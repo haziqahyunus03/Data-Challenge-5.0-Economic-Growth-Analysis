@@ -1,43 +1,34 @@
+# Economic Growth Analysis in Malaysia (2010–2024)
 
-# 📊 Economic Growth Analysis in Malaysia (2010–2024)
+**Data Challenge 5.0 | Data Analytics Project**
 
-### Higher Education, Youth Unemployment & GDP Growth
+## Overview
 
-**Data Challenge 5.0 | Personal Portfolio**
+An analysis of higher education, youth unemployment, graduate employability, and GDP growth in Malaysia from 2010 to 2024. This project demonstrates the application of statistical analysis and data visualisation to explore economic and labour market trends.
 
-## 📌 Project Overview
+## Objectives
 
-This project explores the relationship between higher education graduates, youth unemployment, graduate employability, and GDP growth in Malaysia from 2010 to 2024.
-
-The project demonstrates my exposure to statistical analysis, data visualisation, and dashboard development to communicate research findings.
-
-## 🎯 Objectives
-
-- Analyse trends in higher education graduates.
+- Analyse higher education graduate trends.
 - Examine youth unemployment and graduate employability.
-- Explore relationships between labour market outcomes and GDP growth.
-- Present research findings through visualisations and a dashboard.
+- Explore the relationship between labour market outcomes and GDP growth.
+- Communicate findings through visualisations and an interactive dashboard.
 
-## 🛠️ Tools & Skills
+## Tools & Technologies
 
-- Power BI — Dashboard and data visualisation
-- RStudio — Statistical analysis and modelling
+- **Power BI** — Dashboard development and data visualisation
+- **RStudio** — Statistical analysis and modelling
 
-## 📂 Project Deliverables
+## Project Deliverables
 
-- [View Project Poster](https://drive.google.com/file/d/17QlSa89gXZ_3RuP9sBN-coECjJ0LG3Pw/view?usp=sharing)
-- [View Presentation Slides](https://drive.google.com/file/d/1QSRZuIIaYhFJ5Q173ml-HS0R5CkxQNLy/view?usp=sharing)
-- [View Power BI Dashboard File](https://drive.google.com/file/d/1p9YnnMUyfimiB-9yqx10i2eLq4TvSt7e/view?usp=sharing)
+- [Project Poster](https://drive.google.com/file/d/17QlSa89gXZ_3RuP9sBN-coECjJ0LG3Pw/view?usp=sharing)
+- [Presentation Slides](https://drive.google.com/file/d/1QSRZuIIaYhFJ5Q173ml-HS0R5CkxQNLy/view?usp=sharing)
+- [Power BI Dashboard](https://drive.google.com/file/d/1p9YnnMUyfimiB-9yqx10i2eLq4TvSt7e/view?usp=sharing)
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
-- Exploratory data analysis
-- Data visualisation
-- Statistical analysis
-- Dashboard reporting
-- Research communication
+Exploratory Data Analysis · Statistical Analysis · Data Visualisation · Dashboard Reporting · Research Communication
 
-## 📚 Data Sources
+## Data Sources
 
 - Department of Statistics Malaysia (DOSM)
 - Ministry of Higher Education Malaysia (MOHE)
